@@ -5,5 +5,3 @@ export function printMusic(): void {
         console.log(song);
     }
 }
-
-printMusic();
