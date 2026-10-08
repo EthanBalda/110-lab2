@@ -1,4 +1,3 @@
-
 {
   "name": "110-lab2",
   "version": "1.0.0",
@@ -6,6 +5,7 @@
     "test": "vitest run"
   },
   "devDependencies": {
+    "typescript": "^7.0.2",
     "vitest": "^3.0.0"
   }
 }
