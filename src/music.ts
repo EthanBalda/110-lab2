@@ -1,5 +1,5 @@
 import { printAnimation } from "./animation";
-const music: string[] = ["Body", "Coconut Water", "Dance Monkey", "POP DAT THING"];
+const music: string[] = ["Body", "Coconut Water", "POP DAT THING"];
 
 export function printMusic(): void {
     printAnimation("Music");
