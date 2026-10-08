@@ -1,7 +1,10 @@
+
+import { printMusic } from "./music";
 import { printSnacks } from "./snacks";
 
 function main(): void {
-  printSnacks();
+    printMusic();
+    printSnacks();
 }
 
 main();
